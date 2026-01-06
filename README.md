@@ -2,8 +2,8 @@
 
 ## 💼 Experience
 ### Moldex3D — Material Science R&D  
-**Senior Engineer** (Jul 2023 – Present)  
-**Engineer** (Dec 2020 – Jul 2023)
+- **Senior Engineer** (Jul 2023 – Present)  
+- **Engineer** (Dec 2020 – Jul 2023)
 
 ## 🎓 Education
 - **M.S. in Materials Science and Engineering**, National Chiao Tung University (now National Yang Ming Chiao Tung University)
