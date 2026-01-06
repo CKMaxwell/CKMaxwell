@@ -5,6 +5,12 @@
 - **Senior Engineer** (Jul 2023 – Present)  
 - **Engineer** (Dec 2020 – Jul 2023)
 
+## 🎓 Certifications
+- **Google IT Support Professional Certificate** (2023)
+- **Google Data Analytics Professional Certificate** (2023)
+- **Google IT Automation with Python Professional Certificate** (2022)
+- **IBM Data Science Professional Certificate** (2022)
+
 ## 🎓 Education
 - **M.S. in Materials Science and Engineering**, National Chiao Tung University (now National Yang Ming Chiao Tung University)
 - **B.S. in Materials Science and Engineering**, National Chiao Tung University (now National Yang Ming Chiao Tung University)
