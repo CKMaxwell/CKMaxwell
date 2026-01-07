@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, I'm Andy Tsai 👋
 
 ## 💼 Experience
 ### Moldex3D — Material Science R&D  
