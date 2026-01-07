@@ -14,6 +14,12 @@
 ## 🎓 Education
 - **M.S. in Materials Science and Engineering**, National Chiao Tung University (now National Yang Ming Chiao Tung University)
 - **B.S. in Materials Science and Engineering**, National Chiao Tung University (now National Yang Ming Chiao Tung University)
+
+## 🌍 Languages
+- **Mandarin** — Native
+- **English** — Conversational
+- **Japanese** — Basic conversational
+
 <!--
 **CKMaxwell/CKMaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
