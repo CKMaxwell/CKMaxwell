@@ -5,7 +5,7 @@
 - **Senior Engineer** (Jul 2023 – Present)  
 - **Engineer** (Dec 2020 – Jul 2023)
 
-## 📜 Certifications
+## 📜 Certificate
 - **Google IT Support Professional Certificate** (2023)
 - **Google Data Analytics Professional Certificate** (2023)
 - **Google IT Automation with Python Professional Certificate** (2022)
